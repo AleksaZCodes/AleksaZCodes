@@ -12,6 +12,7 @@ I'm a 15-year-old curious high school student of electrical engineering from Ser
 ## 🌟 Projects
 
 - **[Veronauka na dlanu](https://github.com/AleksaZCodes/VeronaukaNaDlanu)**: A religious app with prayers, calendar, the Holy Bible and more.
+- **[TesseractWave](https://github.com/AleksaZCodes/TesseractWave)**: A web serial plotter app hypercharged with options for electrophysiology readings.
 - **[mesec](https://github.com/AleksaZCodes/mesec)**: Lua translated to Serbian.
 - **[ExceedED](https://github.com/AleksaZCodes/ExceedED-App)**: An unfinished app with great potential.
 
