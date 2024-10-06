@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aleksa Zdravković
+# 👋 Hi, I'm Aleksa
 
 I'm a 15-year-old curious high school student of electrical engineering from Serbia. Passionate about web, app, and embedded development.
 
